@@ -1,0 +1,1 @@
+1. substring(i,j) 包括i 但是不包括j

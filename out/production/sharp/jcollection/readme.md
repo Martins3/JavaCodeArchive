@@ -1,0 +1,18 @@
+What are the two ways to iterate the elements of a collection ?
+What is the difference between ArrayList and LinkedList classes in collection framework?
+What is the difference between ArrayList and Vector classes in collection framework?
+What is the difference between HashSet and HashMap classes in collection framework?
+What is the difference between HashMap and Hashtable class?
+What is the difference between Iterator and Enumeration interface in collection framework?
+How can we sort the elements of an object. What is the difference between Comparable and Comparator interfaces?
+What does the hashcode() method ?
+What is the difference between java collection and java collections ?
+
+### the hierarchy
+iterable  <- collection  <- set list queue  
+list <- ArrayList LinkedList Vector Stack  
+set <- HashSet treeset linkedHashSet 
+queue <- priorityQueue  ArrayQueue
+<--but as i know,the class is  just this-->
+
+
